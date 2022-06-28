@@ -11,9 +11,9 @@ Once you run the voting_machine_project.jar file, it will prompt you to browse a
 * NOTE: File must be text (.txt) file with information formatted correctly. 
 * The format should be as follows:
         
-Matter being voted on
-Number of Candidates
-Candidate Name;Party Affiliation
+Matter being voted on        
+Number of Candidates         
+Candidate Name;Party Affiliation         
         
 *Example format of input file shown below.*
 
