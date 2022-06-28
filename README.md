@@ -9,8 +9,8 @@ This project mimics a voting machine which allows the user to input a ballot fil
 Once you run the voting_machine_project.jar file, it will prompt you to browse and select an input text file for program to retrieve ballot information from. 
 
 * NOTE: File must be text (.txt) file with information formatted correctly. 
-* The format should be as follows:
-        
+       
+**The format should be as follows:**
 Matter being voted on        
 Number of Candidates         
 Candidate Name;Party Affiliation         
