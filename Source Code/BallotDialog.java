@@ -1,7 +1,4 @@
 
-// YOU ARE NOT REQUIRED TO READ OR UNDERSTAND THIS CODE; YOU MAY NOT
-// MODIFY IT.
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
